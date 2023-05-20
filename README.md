@@ -21,6 +21,6 @@
 -Система менеджмента. Удобная система где можно хранить данные о клинтах.
 ![managment](./for%20readme/managment_system.png)
 
-#Django
+# Django
 ![managment](./for%20readme/shop1.png)
 ![managment](./for%20readme/shop2.png)
