@@ -23,6 +23,8 @@
 
 # Django
 -Заглавная страница магазина.
-![managment](./for%20readme/for_shop1.png)
+![shop](./for%20readme/for_shop1.png)
 
-![managment](./for%20readme/for_shop2.png)
+![shop2](./for%20readme/for_shop2.png)
+-И куда же без регистрации на сайте?
+![reg](./for%20readme/reg.png)
