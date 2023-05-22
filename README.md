@@ -10,21 +10,21 @@
 # Консольное приложение
 Я решил создать первый пет-проект который состоит из нескольких небольших проектов!
 -Для начала нас встречает главное меню проекта:
-![main_menu](./for%20readme/main_menu.png)
+![main_menu](./for_readme/main_menu.png)
 
 -Консольный калькулятор, числа можно вводить как с помощью мышки, так и с помощью клавиатуры.
-![calculator](./for%20readme/calculator.png)
+![calculator](./for_readme/calculator.png)
 
 -Список дел. В нем можно сохранять, загружать и удалять дела.
-![list](./for%20readme/to_do_list.png)
+![list](./for_readme/to_do_list.png)
 
 -Система менеджмента. Удобная система где можно хранить данные о клинтах.
-![managment](./for%20readme/managment_system.png)
+![managment](./for_readme/managment_system.png)
 
-# Django
+<!-- # Django
 -Заглавная страница магазина.
-![shop](./for%20readme/for_shop1.png)
+![shop](./for_readme/for_shop1.png)
 
-![shop2](./for%20readme/for_shop2.png)
+![shop2](./for_readme/for_shop2.png)
 -И куда же без регистрации на сайте?
-![reg](./for%20readme/reg.png)
+![reg](./for_readme/reg.png) -->
