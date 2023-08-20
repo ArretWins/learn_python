@@ -7,24 +7,20 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-# Консольное приложение
-Я решил создать первый пет-проект который состоит из нескольких небольших проектов!
--Для начала нас встречает главное меню проекта:
+# Console Application
+I decided to create my first pet project, which consists of several small projects!
+
+-To begin with, the main menu of the project welcomes us: main_menu.
 ![main_menu](./for_readme/main_menu.png)
 
--Консольный калькулятор, числа можно вводить как с помощью мышки, так и с помощью клавиатуры.
+-Console Calculator: You can input numbers both using the mouse and the keyboard. calculator
 ![calculator](./for_readme/calculator.png)
 
--Список дел. В нем можно сохранять, загружать и удалять дела.
+-To-Do List: You can save, load, and delete tasks.
 ![list](./for_readme/to_do_list.png)
 
--Система менеджмента. Удобная система где можно хранить данные о клинтах.
+-Management System: A convenient system for storing customer data.
 ![managment](./for_readme/managment_system.png)
 
-<!-- # Django
--Заглавная страница магазина.
-![shop](./for_readme/for_shop1.png)
+Thank you for your attention and interest in my project!
 
-![shop2](./for_readme/for_shop2.png)
--И куда же без регистрации на сайте?
-![reg](./for_readme/reg.png) -->
